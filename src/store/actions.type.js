@@ -1,0 +1,14 @@
+export const CREATE_NEW_POST = "CREATE_NEW_POST";
+export const FETCH_POST_LIST = "FETCH_POST_LIST";
+export const FETCH_POST_LIST_SCROLL = "FETCH_POST_LIST_SCROLL";
+export const POST_COMMENT = "POST_COMMENT";
+export const FETCH_COMMENT = "FETCH_COMMENT";
+export const LIKE_POST = "LIKE_POST";
+export const USER_LOGIN_G_AUTH = "USER_LOGIN_G_AUTH";
+export const USER_LOGOUT_G_AUTH = "USER_LOGOUT_G_AUTH";
+export const REMOVE_USER = "REMOVE_USER";
+export const USER_ONLINE = "USER_ONLINE";
+export const GET_USER_LIST = "GET_USER_LIST";
+export const LOGIN_WITH_G = "LOGIN_WITH_G";
+export const SEARCH_POST = "SEARCH_POST";
+export const CREATE_CONVERSATION = "CREATE_CONVERSATION";
